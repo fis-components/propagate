@@ -1,0 +1,10 @@
+{
+    "name": "propagate",
+    "description": "Propagate events",
+    "repos": "https://github.com/pgte/propagate.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.3.0"
+}
